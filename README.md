@@ -1,8 +1,10 @@
 # Solidity Security Design Patterns
 ## Code and slides of ICT Risk Assessment 2018/2019 seminar.
 
-### NEW! Now compatible with Solidity 0.5.1!
-### Design  patterns are a commonly used technique to encode design guide-lines or best practices. They express an abstract or conceptual solution to a concrete, complex, and reoccurring problem.
+NEW! Now compatible with Solidity 0.5.1!
+
+
+Design  patterns are a commonly used technique to encode design guide-lines or best practices. They express an abstract or conceptual solution to a concrete, complex, and reoccurring problem.
 
 
 _ | CHECKS-EFFECTS-INTERACTION PATTERN |
